@@ -4,7 +4,7 @@
 
 # Register Number : 212223040233
 
-# Date : 05-03-2025
+# Date : 30-01-2026
 
 # AIM:
 
@@ -87,7 +87,7 @@ int main() {
 
 # OUTPUT:
 
-![WhatsApp Image 2025-03-19 at 10 26 12_c487a553](https://github.com/user-attachments/assets/d90a3658-1bbc-44c1-94a3-a2599b9eb80e)
+<img width="636" height="586" alt="image" src="https://github.com/user-attachments/assets/1e155929-8180-44be-a8b5-5d1c3c1c1b00" />
 
 # RESULT:
 
